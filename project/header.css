@@ -1,0 +1,48 @@
+
+.header{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    height: 70px;
+}
+.right-header{
+    width: 350px;
+    /* background-color: aqua; */
+
+}
+.left-header{
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+.Menue-bar{
+   height: 24px;
+    margin-right: 18px;
+}
+.youtube{
+    width: 100px;
+}
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+.search-box {
+    width: 300px;
+    border-radius: 4px;
+}
+
+
+.search-curve{
+    border-radius: 10px;
+}
+
+.microphone{
+    height: 20px;
+   
+}
+.search-box{
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: solid;
+}
